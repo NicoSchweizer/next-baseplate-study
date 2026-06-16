@@ -24,7 +24,8 @@ I registered it with the IT department and assigned it a static IP address (10.5
 Note to self: *Don't change the settings of the Arroyo on the [network interface](https://10.5.78.145:2222) and run the whole script. This caused problems for other VECSEL's ([Mattermost link](https://qsim-mattermost.uni-freiburg.de/oneworld/pl/pp1tsbjwztrwzezhfxogc9dsfw)).*
 
 #### 2. Building cabels for interfacing with the VECSEL and TEC's directly
-The Arroyo controller has 4 channels, each with a DB15 connector (15 pin).
+The Arroyo controller has 4 channels, each with a DB15 connector (15 pin).\
+I decided on the following cable setup:
 
 ```mermaid
 flowchart LR
