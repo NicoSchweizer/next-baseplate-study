@@ -18,9 +18,7 @@ When changing the pump speed to *low* the sound was not audible anymore.
 To get a better idea and maybe quantify my observations, I decided to do some sound measurements. I used a similar setup as seen in the [Baseplate section](../Baseplate/sub/Sound_in_Lab.md).\
 The setup looks like this:
 
-<img src="./fig/Picture_setup.jpg" alt="Picture of sound measurement setup" width="300"/>
-
-<img src="./fig/Picture_phone.jpg" alt="Picture of phone used for sound measurement" width="300"/>
+<img src="./fig/Picture_setup.jpg" alt="Picture of sound measurement setup" width="300"/> <img src="./fig/Picture_phone.jpg" alt="Picture of phone used for sound measurement" width="300"/>
 
 I did 3 measurements, one with pump speed *high*, one with pump speed *low* and one with the pump turned off but the chiller still on.\
 The results are shown in the following figure:
@@ -55,3 +53,7 @@ Adding longer hoses might attenuate some of the frequencies, for this test I use
 The coldplate seems to be water tight and does not show any leaks.\
 There is a significant sound at a frequency of 238 Hz when the pump is running at high speed, which is significantly reduced when lowering the pump speed.\
 I'm hoping to reduce the sound further by adding longer hoses in the final setup.
+
+
+links:
+- [Temperature gradient in VECSEL casing](./sub/Temp_grad.md)
