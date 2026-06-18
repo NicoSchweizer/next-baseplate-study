@@ -33,10 +33,10 @@ The phone might for example set its absolute amplitude in reference to the curre
 
 I still believe the measurements show something interesting, to emphasize this, I tried to subtract the background noise (*pump off*).
 
-$\text{FFT}_{\text{high}}^\text{reduced} = \text{FFT}_{\text{high}} - \text{FFT}_{\text{off}}$
+$$\text{FFT}_{\text{high}}^\text{reduced} = \text{FFT}_{\text{high}} - \text{FFT}_{\text{off}}$$
 
-*Same for $\text{FFT}_{\text{low}}^\text{reduced}$.\
-Negative values as a result of high amplitude in the *off* measurement are removed.*
+*Same for*  $$\text{FFT}_{\text{low}}^\text{reduced}$$\
+*Negative values as a result of high amplitude in the *off* measurement are removed.*
 
 The results of this are shown in the following figure:
 
