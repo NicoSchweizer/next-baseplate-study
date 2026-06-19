@@ -54,6 +54,9 @@ The coldplate seems to be water tight and does not show any leaks.\
 There is a significant sound at a frequency of 238 Hz when the pump is running at high speed, which is significantly reduced when lowering the pump speed.\
 I'm hoping to reduce the sound further by adding longer hoses in the final setup.
 
+During our team meeting, Tobias suggested to generate some deliberate noise in the lab to see if there is any effect at certain frequencies.\
+This will be done in coordination with the other lab members, so they can also check their equipment during these tests.
+
 
 links:
 - [Temperature gradient in VECSEL casing](./sub/Temp_grad.md)
