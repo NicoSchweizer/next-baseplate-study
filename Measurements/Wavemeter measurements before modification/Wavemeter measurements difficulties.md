@@ -13,6 +13,8 @@ I managed to get a measurement of the frequency and only had the problem describ
 
 <img src="./fig/t_s_freq_21.05.2026,%2014.30,%20%20268,0945120%20THz.png" alt="Time series of frequency and power 21.05" width="1100"/>
 
+<img src="./fig/t_s_tec.png" alt="Time series of TEC temperature 21.05" width="900"/>
+
 Using the data from this measurement, I calculated the Allan-deviation, which is shown below for both the frequency and the power.
 
 <img src="./fig/ad_freq_21.05.2026,%2014.30,%20%20268,0945120%20THz.png" alt="Allan-deviation of frequency 21.05" width="600"/>
