@@ -24,3 +24,6 @@ Using the data from this measurement, I calculated the Allan-deviation, which is
 These plots show that the frequency stability for very short timescales (20 - 100 ms) is at around 30-50 MHz.\
 Since they show an Allan-deviation, I would expect the deviation to drop for longer timescales before increasing again, but it only decreases for much higher timescales.\
 This might be due to the constant frequency walking seen in the time series.
+
+**Links**:
+- [Reappraisal of Wavemeter Measurements](./sub/Wavemeter%20measurement%20reappraisal.md)
