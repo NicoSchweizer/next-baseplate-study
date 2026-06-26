@@ -54,3 +54,6 @@ The power stability is around 0.1-0.3 mW for timescales of 20-100 ms.
 
 One thing to notice:
 **Since the time series used to calculate the allan deviation is the minimum of the frequency oscillation and not completely representative of the whole time series, this allan deviaiton is to be seen as a lower bound of the frequency stability.**
+
+### Next Steps
+* **Try to implement a Power Spectral Density (PSD) analysis**
