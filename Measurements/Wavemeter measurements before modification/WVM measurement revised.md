@@ -38,7 +38,7 @@ Using this segment, I calculated the allan deviation of the frequency and power.
 The results look like this:
 
 <img src="./fig/AD_24-06_15-18_segments.png" alt="Allan Deviation of Frequency" width="600">
-<img src="./fig/AD_pow_24-06_15-18_segments.png" alt="Allan Deviation of Power" width="600">
+<!-- <img src="./fig/AD_pow_24-06_15-18_segments.png" alt="Allan Deviation of Power" width="600"> -->
 
 For the frequency we can see an allan deviation of around 150-500 kHz for timescales of 20-100 ms.\
 I noticed that Tobi was using larger timescales in his thesis, so to have a better comparison:
@@ -49,8 +49,8 @@ I don't know if Tobi used the mean or median value for this timescale, but I thi
 
 ### Conclusion
 The wavemeter measurements show that the frequency stability of the laser is in line with Tobi's results.\
-The frequency stability is around 150-500 kHz for timescales of 20-100 ms.\
-The power stability is around 0.1-0.3 mW for timescales of 20-100 ms.
+The frequency stability is around 150-500 kHz for timescales of 20-100 ms.
+<!-- The power stability is around 0.1-0.3 mW for timescales of 20-100 ms. -->
 
 One thing to notice:
 **Since the time series used to calculate the allan deviation is the minimum of the frequency oscillation and not completely representative of the whole time series, this allan deviaiton is to be seen as a lower bound of the frequency stability.**
